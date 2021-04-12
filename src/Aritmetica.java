@@ -28,9 +28,9 @@ public class Aritmetica {
     }
     static double resta(double a, double b)
     {
+        double res=a-b;
         
-        
-        return 1;
+        return res;
 
     }
     static double multiplicacion(double a, double b)
