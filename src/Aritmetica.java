@@ -23,7 +23,7 @@ public class Aritmetica {
     {
         
         
-        return resSuma = a+b;
+        return a+b;
 
     }
     static double resta(double a, double b)
